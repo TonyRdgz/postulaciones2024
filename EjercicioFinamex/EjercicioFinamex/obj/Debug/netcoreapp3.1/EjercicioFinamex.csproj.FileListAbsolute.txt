@@ -1,0 +1,14 @@
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\bin\Debug\netcoreapp3.1\EjercicioFinamex.exe
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\bin\Debug\netcoreapp3.1\EjercicioFinamex.deps.json
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\bin\Debug\netcoreapp3.1\EjercicioFinamex.runtimeconfig.json
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\bin\Debug\netcoreapp3.1\EjercicioFinamex.runtimeconfig.dev.json
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\bin\Debug\netcoreapp3.1\EjercicioFinamex.dll
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\bin\Debug\netcoreapp3.1\EjercicioFinamex.pdb
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.csproj.AssemblyReference.cache
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.AssemblyInfoInputs.cache
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.AssemblyInfo.cs
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.csproj.CoreCompileInputs.cache
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.dll
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.pdb
+C:\Users\Tony RS\source\repos\EjercicioFinamex\EjercicioFinamex\obj\Debug\netcoreapp3.1\EjercicioFinamex.genruntimeconfig.cache
